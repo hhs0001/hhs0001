@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DerekBot**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **heitorstein@gmail.com**
 
