@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on corelibrary<br>🌱 I’m currently learning React<br>⚡ Fun fact: I love meat
+🔭 I’m currently working on meteoro<br>🌱 I’m currently learning React<br>⚡ Fun fact: I love meat
 
 
 ## 🌐 Socials:
